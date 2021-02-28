@@ -1,0 +1,10 @@
+.userPhoto {
+    border-radius: 20%;
+}
+
+.sortBtn {
+    background-color: #fff;
+    border: none;
+    font-weight: bold;
+    text-decoration: underline;
+}
