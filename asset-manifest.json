@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/19-React-Employee_Tracker/static/css/main.00baf2d5.chunk.css",
+    "main.js": "/19-React-Employee_Tracker/static/js/main.26b4fd7a.chunk.js",
+    "main.js.map": "/19-React-Employee_Tracker/static/js/main.26b4fd7a.chunk.js.map",
+    "runtime-main.js": "/19-React-Employee_Tracker/static/js/runtime-main.b7c71933.js",
+    "runtime-main.js.map": "/19-React-Employee_Tracker/static/js/runtime-main.b7c71933.js.map",
+    "static/css/2.150d169a.chunk.css": "/19-React-Employee_Tracker/static/css/2.150d169a.chunk.css",
+    "static/js/2.c26e946d.chunk.js": "/19-React-Employee_Tracker/static/js/2.c26e946d.chunk.js",
+    "static/js/2.c26e946d.chunk.js.map": "/19-React-Employee_Tracker/static/js/2.c26e946d.chunk.js.map",
+    "static/js/3.5662dd6a.chunk.js": "/19-React-Employee_Tracker/static/js/3.5662dd6a.chunk.js",
+    "static/js/3.5662dd6a.chunk.js.map": "/19-React-Employee_Tracker/static/js/3.5662dd6a.chunk.js.map",
+    "index.html": "/19-React-Employee_Tracker/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/19-React-Employee_Tracker/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.00baf2d5.chunk.css.map": "/19-React-Employee_Tracker/static/css/main.00baf2d5.chunk.css.map",
+    "static/js/2.c26e946d.chunk.js.LICENSE.txt": "/19-React-Employee_Tracker/static/js/2.c26e946d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c71933.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c26e946d.chunk.js",
+    "static/css/main.00baf2d5.chunk.css",
+    "static/js/main.26b4fd7a.chunk.js"
+  ]
+}
